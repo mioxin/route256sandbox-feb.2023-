@@ -1,0 +1,26 @@
+: ttmttttmim:      
+   imttttmim//
+  itmttttmim :false lev:8/9
+: imimmmiiit:      
+   iimmmiiit//
+   mimmmiiit :false lev:8/9
+: tmmtttmiii:
+   mmtttmiii      
+   imtttmiii//
+  immtttmiii :false lev:8/9
+: miittttmm:       
+  iiittttmm//
+ mmiittttmm :false lev:8/9
+
+ itiimttiti:
+  iiimttiti      
+ m//
+ mmiimttiti
+
+ tmmtmmitmm:             
+ iimtmmitmm//
+ mmmtmmitmm
+
+  iiitttitt:              
+  i//
+   iitttitt
